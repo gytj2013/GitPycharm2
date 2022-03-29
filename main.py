@@ -14,5 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     # add something new
     print("Hello World")
+    # add something new
+    print("Hello World3")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
