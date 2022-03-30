@@ -24,5 +24,7 @@ if __name__ == '__main__':
     print("Hello World Update on Github branch")
     # update in master branch
     print("Hello World Update on local master branch")
+    #update in main branch of github
+    print("Hello World Update 2 on Github branch only")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
